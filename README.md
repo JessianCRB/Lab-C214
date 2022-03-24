@@ -18,14 +18,15 @@
 - [x] Aula 3: Utilizando o Node para realizar a gerencia de uma dependência, que valida as variáveis.
 - [x] Aula 4: Subir os códigos das aulas anteriores em um repositório público, contendo descrição, um .gitignore e no mínimo 3 commits.
 - [x] Aula 5: Criar um Readme contendo informações precisas e necessárias para o repositório em uma Branch e após realizar um Merge.
-- [] Aula 6: ...
+- Aula 6: ...
 
 <h4 align="center"> 
 	🚧  Em construção...  🚧
-</h4>
+
 - [Node.js](https://nodejs.org/en/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript)
 - [VS Code](https://code.visualstudio.com/)
+</h4>
 
 ## Autores
 
