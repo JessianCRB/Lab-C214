@@ -20,14 +20,11 @@
 - [x] Aula 5: Criar um Readme contendo informações precisas e necessárias para o repositório em uma Branch e após realizar um Merge.
 - Aula 6: ...
 
-<h3 align="center"> 
-	🚧  Em construção...  🚧
-</h3>
-<p>
+## 🚧 Em construção... 🚧
+
 - [Node.js](https://nodejs.org/en/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript)
 - [VS Code](https://code.visualstudio.com/)
-</p>
 
 ## Autores
 
