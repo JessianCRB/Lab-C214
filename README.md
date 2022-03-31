@@ -22,13 +22,13 @@
 
 ## :wrench: Instalação
 
-```http
+```
   npm install --save express
-  npm install--save cors
-  npm install--save http-status-codes
-  npm install--save validate.js
-  npm install--save moongose
-  npm install--save uuid
+  npm install --save cors
+  npm install --save http-status-codes
+  npm install --save validate.js
+  npm install --save moongose
+  npm install --save uuid
 ```
 
 ## 🚧 Em construção... 🚧
